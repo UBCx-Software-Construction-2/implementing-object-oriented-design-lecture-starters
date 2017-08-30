@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CongenialHairSalonSolution/CogenialHairSalonSolution.iml" filepath="$PROJECT_DIR$/CongenialHairSalonSolution/CogenialHairSalonSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/CongenialHairSalonStarter/CongenialHairSalonStarter.iml" filepath="$PROJECT_DIR$/CongenialHairSalonStarter/CongenialHairSalonStarter.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/SelfDrivingCarAfterFields/SelfDrivingCarAfterFields.iml" filepath="$PROJECT_DIR$/SelfDrivingCarAfterFields/SelfDrivingCarAfterFields.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/SelfDrivingCarBroken/SelfDrivingCarBroken.iml" filepath="$PROJECT_DIR$/SelfDrivingCarBroken/SelfDrivingCarBroken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelfDrivingCarBrokenAfterSequenceDiagrams/SelfDrivingCarBrokenAfterSequenceDiagrams.iml" filepath="$PROJECT_DIR$/SelfDrivingCarBrokenAfterSequenceDiagrams/SelfDrivingCarBrokenAfterSequenceDiagrams.iml" group="Solution" />
+    </modules>
+  </component>
+</project>
